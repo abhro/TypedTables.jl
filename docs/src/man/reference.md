@@ -23,9 +23,11 @@ TypedTables.columnnames
 ## Property selection
 
 ```@docs
+Base.getproperty
 TypedTables.getproperties
 TypedTables.deleteproperty
 TypedTables.deleteproperties
+TypedTables.propertytype
 ```
 
 ## Convenience macros
